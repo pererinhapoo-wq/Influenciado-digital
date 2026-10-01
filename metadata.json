@@ -1,0 +1,6 @@
+{
+  "name": "NexaWeb Creator Studio — Plataforma Premium de Criador de Conteúdo",
+  "description": "Plataforma digital editorial e mídia kit completo para criadores de conteúdo de alto impacto, combinando vitrine de projetos, métricas, produções autorais e parcerias comerciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
